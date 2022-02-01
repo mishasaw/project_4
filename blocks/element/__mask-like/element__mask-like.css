@@ -1,0 +1,20 @@
+.element__mask-like {
+	min-width: 22px;
+	height: 19px;
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-left: auto;
+	margin-bottom: 0;
+	cursor: pointer;
+	background: url(../../../images/white_heart.svg);
+	border: none;
+}
+
+.element__mask-like:hover {
+	opacity: 0.5;
+	transition: opacity 0.3s;
+}
+
+.element__mask-like:active {
+	background: url(../../../images/black_heart.svg);
+}

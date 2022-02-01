@@ -1,0 +1,5 @@
+.element__mask {
+	display: flex;
+	flex-direction: row;
+	margin: 25px 15px 0 21px;
+}

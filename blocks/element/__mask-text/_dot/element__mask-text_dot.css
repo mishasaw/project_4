@@ -1,0 +1,5 @@
+.element__mask-text_dot {
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
