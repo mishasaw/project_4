@@ -32,3 +32,7 @@
 
 
 * *Реализовать функции попапов в js* 
+
+## **gh-pages link**
+
+* *https://mishasaw.github.io/project_4//index.html*
