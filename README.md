@@ -35,4 +35,4 @@
 
 ## **gh-pages link**
 
-* *https://mishasaw.github.io/project_4//index.html*
+* *https://mishasaw.github.io/project_4/index.html*
